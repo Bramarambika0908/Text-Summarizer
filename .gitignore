@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+saved_summary_model/
+
+
+saved_summary_tokenizer/
+
+
+.ipynb_checkpoints/
+*.safetensors
+*.bin
