@@ -19,7 +19,7 @@ An AI-powered **Text Summarization application** that uses a fine-tuned **T5 (Te
 -  Beam search-based summary generation
 - **Model hosted on Hugging Face**
 
-##🛠️ Technologies Used &📦 Requirements
+### 🛠️ Technologies Used &📦 Requirements
 
 * Python 3.7+ 
 * Required Python packages (listed in requirements.txt)
